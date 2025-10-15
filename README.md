@@ -1,4 +1,5 @@
 <img width="709" height="168" alt="image" src="https://github.com/user-attachments/assets/c917ad10-aae5-4b65-9931-6d01dc43c8f2" />
+
 # 📰 Auto News Publisher to X (Twitter) with AI & Tracking
 
 A professional, automated workflow to discover breaking news, generate AI-based social content, and publish it directly to X (Twitter) — all while logging results and sending email notifications. Ideal for news organizations, content creators, social media managers, and businesses wanting to stay current and engaged.
